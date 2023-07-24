@@ -1,0 +1,218 @@
+         /* index page */
+
+         .navbar-brand {
+           margin-left: 15%;
+         }
+
+         .card {
+          box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+          transition: 0.3s;
+          width: 40%;
+        }
+        
+        .card:hover {
+          box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        }
+         
+
+         .carousel-caption {
+           top: 30%;
+           text-align: left !important;
+           color: #00102d !important;
+         }
+
+         body {
+           background-color: #f7fafc;
+         }
+
+         .c {
+           font-size: 300px;
+           font-weight: 700;
+           text-align: left;
+           color: rgba(9, 9, 19, 0.03);
+         }
+
+         .t1 {
+           width: 80%;
+           outline: none;
+           border: 0;
+           border-bottom: 2px solid rgb(155, 152, 152);
+           color: black;
+           text-align: center;
+           margin-top: 40px;
+         }
+
+         .t3 {
+           width: 80%;
+           outline: none;
+           border: 0;
+           border-bottom: 2px solid rgb(155, 152, 152);
+           color: black;
+           padding-bottom: 50px;
+           text-align: center;
+           margin-top: 40px;
+         }
+
+         .btn-send {
+           border-radius: 0;
+           background-color: #00d541;
+           color: white;
+
+         }
+
+         .fa-facebook-f {
+           cursor: pointer;
+         }
+
+         .webtis {
+           text-decoration: none;
+         }
+
+         .webtis:hover {
+           color: #00102d;
+         }
+
+
+         /* about page */
+
+         .our_mission_line {
+           position: relative;
+           left: 30px;
+           bottom: 10px;
+           font-size: 30px;
+           font-weight: bold;
+         }
+
+         .red-line {
+           color: red;
+           font-size: 30px;
+           font-weight: bold;
+         }
+
+         /* portfolio  page*/
+ 
+         .overlay{
+          height: 200px;
+          /* width: 300px; */
+          background-color: red;
+          
+         }
+         
+.img1{
+  background-image: url(../images/TrustGenic.png);
+  background-size: cover;
+}
+.img2{
+  background-image: url(../images/img2.png);
+  background-size: cover;
+}
+.img3{
+  background-image: url(../images/img3.png);
+  background-size: cover;
+}
+.img4{
+  background-image: url(../images/img4.png);
+  background-size: cover;
+}
+.img5{
+  background-image: url(../images/img5.png);
+  background-size: cover;
+}
+.img6{
+  background-image: url(../images/img6.png);
+  background-size: cover;
+}
+.img7{
+  background-image: url(../images/img7.png);
+  background-size: cover;
+}
+.img8{
+  background-image: url(../images/img8.png);
+  background-size: cover;
+}
+.img9{
+  background-image: url(../images/img9.png);
+  background-size: cover;
+}
+.img10{
+  background-image: url(../images/img10.png);
+  background-size: cover;
+}
+.img11{
+  background-image: url(../images/img11.png);
+  background-size: cover;
+}
+.img12{
+  background-image: url(../images/img12.png);
+  background-size: cover;
+}
+.img13{
+  background-image: url(../images/img13.png);
+  background-size: cover;
+}
+ /* graphics work page */
+ 
+ /* .box{
+  position: relative;
+ }
+ .image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  color:red;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.box:hover .image {
+  opacity: 0.3;
+}
+
+.box:hover .middle {
+  opacity: 1;
+} */
+ /* contact page */
+
+ .fa-envelope{
+  font-size: 70px;
+ }
+ .fa-recycle{
+  font-size: 70px;
+ }
+ .email{
+  outline: none;
+  color: white;
+  border: none;
+  border-bottom: 2px solid white;
+  width: 100%;
+  background-color: white;
+  padding-bottom: 5px;
+ }
+ .message{
+  outline: none;
+  color: white;
+  border: none;
+  border-bottom: 2px solid white;
+  width: 100%;
+  background-color: white;
+  padding-bottom: 70px;
+ }
+ .send{
+  border-radius: 0 !important;
+
+ }
+ .send:hover{
+  background-color: black !important;
+  border: 2px solid #dc3545 !important;
+  color: #f75f6e !important;
+  
+ }
